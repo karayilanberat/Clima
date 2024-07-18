@@ -18,12 +18,9 @@ Clima is a beautiful, dark-mode enabled weather app that allows users to check t
 - Core Location for GPS-based Location Services
 - Error Handling
 
-## Installation
+## ScreenShots
 
-```bash
-git clone https://github.com/yourusername/Clima.git
-cd Clima
-open Clima.xcodeprojü
+<img src="https://github.com/user-attachments/assets/d075c931-d6c2-4eb9-91b1-0cc7f6375e01" width="300">
 
 ## Usage
 
@@ -42,3 +39,10 @@ open Clima.xcodeprojü
 -Controller
 -WeatherViewController.swift
 -WeatherManager.swift
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/Clima.git
+cd Clima
+open Clima.xcodeproject
