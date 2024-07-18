@@ -30,15 +30,15 @@ Clima is a beautiful, dark-mode enabled weather app that allows users to check t
 
 ## Project Structure
 
--Model
--WeatherModel.swift
--LatLonData.swift
--WeatherData.swift
--View
--Main.storyboard
--Controller
--WeatherViewController.swift
--WeatherManager.swift
+- Model
+- WeatherModel.swift
+- LatLonData.swift
+- WeatherData.swift
+- View
+- Main.storyboard
+- Controller
+- WeatherViewController.swift
+- WeatherManager.swift
 
 ## Installation
 
