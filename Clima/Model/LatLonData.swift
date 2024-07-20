@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+struct LatLonData: Decodable {
+    var lat: Double
+    var lon: Double
+}
